@@ -16,3 +16,6 @@ You have up till 10 AM on Monday to submit this.
 All the best. 
 
 
+URL for UI Test submission. https://github.com/Gladys-Luke/ui-test.git
+
+
